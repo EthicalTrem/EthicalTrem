@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EthicalTrem
 - 👀 I’m interested in ethical hacking
-- 🌱 I’m currently learning BASH and Python
+- 🌱 I’m currently learning BASH,Python,Rust,SQL,Git !
 - 💞️ I’m looking for a mentor
 - 📫 How to reach me ...ethicaltrem@gmail.com
 
