@@ -2,7 +2,7 @@
 - 👀 I’m interested in ethical hacking
 - 🌱 I’m currently learning BASH,Python,Rust,SQL,Git !
 - 💞️ I’m looking for a mentor
-- 📫 How to reach me ...ethicaltrem@gmail.com
+  
 
 <!---
 EthicalTrem/EthicalTrem is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
