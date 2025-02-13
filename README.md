@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @EthicalTrem
-- 👀 I’m interested in ethical hacking
+- 👀 I’m interested in *************
 - 🌱 I’m currently learning BASH,Python,Rust,SQL,Git !
 - 💞️ I’m looking for a mentor
   
